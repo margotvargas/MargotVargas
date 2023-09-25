@@ -19,7 +19,7 @@ Sobre mi:👩
 
 ---
 
-### :hammer_and_wrench: Lenguajes y herramientas:
+### :hammer_and_wrench: Herramientas:
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/PostgreSQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgreSQL"/>
   </a>
