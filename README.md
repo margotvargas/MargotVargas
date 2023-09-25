@@ -25,13 +25,24 @@ Sobre mi:👩
   </a>
     <img decoding="async" src="https://img.shields.io/badge/Android_Studio-6DB33F?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Jira-80DAEB?style=for-the-badge&logo=Jira-BI&logoColor=white" alt="Jira"/>
+ <img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
   </a>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Postman-ff8000?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
   <img decoding="async" src="https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="python"/>
+  </a>
+    </a>
+     <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="python"/>
+  </a>
+    </a>
+    <img decoding="async" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="python"/>
+  </a>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="python"/>
   </a>
 </div>
