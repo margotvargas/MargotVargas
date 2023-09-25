@@ -1,7 +1,7 @@
 ![image](https://github.com/MargotVargas/MargotVargas/assets/145522621/c406786b-de36-4912-8295-86395b7a0b2d)
 
 <h1 align="center">
-  Hola soy @MargotVargas ¡Encantada de conocerte!
+  Hola soy Margot. ¡Encantada de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
