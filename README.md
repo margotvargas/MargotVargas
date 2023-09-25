@@ -16,3 +16,22 @@ Sobre mi:👩
 🔍Busco nuevos retos para continuar mi desarrollo profesional y formar parte de desafiantes proyectos en que pueda aportar mis habilidades.💪
 📮¿Quieres contactar conmigo?  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcarolavargasp/)
 
+
+---
+
+### :hammer_and_wrench: Lenguajes y herramientas:
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/PostgreSQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgreSQL"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/Android_Studio-6DB33F?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Jira-80DAEB?style=for-the-badge&logo=Jira-BI&logoColor=white" alt="Jira"/>
+  </a>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Postman-ff8000?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  </a>
+  <img decoding="async" src="https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+</div>
