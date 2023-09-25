@@ -1,4 +1,5 @@
-![image](https://github.com/MargotVargas/MargotVargas/assets/145522621/5b24668a-a550-45ed-a824-9b0ccac37af2)
+![image](https://github.com/MargotVargas/MargotVargas/assets/145522621/c406786b-de36-4912-8295-86395b7a0b2d)
+
 
 Sobre mi:👩
 
