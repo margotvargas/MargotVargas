@@ -13,8 +13,9 @@ Sobre mi:👩
 
 👩‍🎓Me encuentro especializandome como QA, curso en el reconocido bootcamp TripletenLatam; equipada con las herramientas para sobresalir en el mundo del aseguramiento de calidad de software.📌
 
-🔍Busco nuevos retos para continuar mi desarrollo profesional y formar parte de desafiantes proyectos en que pueda aportar mis habilidades.💪
-📮¿Quieres contactar conmigo?  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcarolavargasp/)
+🔍Busco nuevos retos para continuar mi desarrollo profesional y formar parte de desafiantes proyectos para aportar mis habilidades.💪
+
+📫¿Quieres contactar conmigo?  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcarolavargasp/)
 
 
 ---
