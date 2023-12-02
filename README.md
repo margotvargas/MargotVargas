@@ -46,6 +46,9 @@ Sobre mi:👩
   </a>
     <img decoding="async" src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="python"/>
   </a>
+   </a>
+  <img decoding="async" src= "https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+   </a>
 </div>
 
 
