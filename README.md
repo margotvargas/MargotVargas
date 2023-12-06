@@ -5,7 +5,7 @@
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Sobre mi:👩
+Sobre mi:🙋🏻‍♀️
 
 💻Apasionada de la tecnologia y disfrutando de una transición laboral como QA Engineer.🐱‍💻
 
