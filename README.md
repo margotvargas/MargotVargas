@@ -60,7 +60,8 @@ Sobre mi:👩
     </a>
 </div>
 
-
+### :hammer_and_wrench: Mis estadisticas :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=margotvargas&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
