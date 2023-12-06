@@ -31,7 +31,7 @@ Sobre mi:👩
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Postman-ff8000?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
-  <img decoding="async" src="https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img decoding="async" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   </a>
     <img decoding="async" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="python"/>
   </a>
@@ -50,13 +50,13 @@ Sobre mi:👩
   <img decoding="async" src= "https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
    </a>
      </a>
-   <img decoding="async" src= "https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git"/>
+   <img decoding="async" src= "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
  </a>
    </a>
    <img decoding="async" src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github"/>
    </a>
    </a>
-   <img decoding="async" src="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=orange"/>
+   <img decoding="async" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
     </a>
 </div>
 
