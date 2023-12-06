@@ -20,7 +20,7 @@ Sobre mi:👩
 
 ---
 
-### :hammer_and_wrench: Herramientas:
+### Herramientas:
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/PostgreSQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgreSQL"/>
   </a>
@@ -52,7 +52,9 @@ Sobre mi:👩
      </a>
    <img decoding="async" src= "https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git"/>
  </a>
+   </a>
    <img decoding="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github"/>
+   </a>
    </a>
    <img decoding="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma"/>
     </a>
