@@ -20,7 +20,7 @@ Sobre mi:👩
 
 ---
 
-### Herramientas:
+### ⚒️Herramientas:
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/PostgreSQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgreSQL"/>
   </a>
@@ -60,7 +60,7 @@ Sobre mi:👩
     </a>
 </div>
 
-### Mis estadisticas :
+### 📊Mis estadisticas :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=margotvargas&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
