@@ -49,9 +49,13 @@ Sobre mi:👩
    </a>
   <img decoding="async" src= "https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
    </a>
-  ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-  ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+     </a>
+   <img decoding="async" src= "https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git"/>
+ </a>
+   <img decoding="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github"/>
+   </a>
+   <img decoding="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma"/>
+    </a>
 </div>
 
 
