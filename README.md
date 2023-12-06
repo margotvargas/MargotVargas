@@ -66,3 +66,4 @@ Sobre mi:👩
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margotvargas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
