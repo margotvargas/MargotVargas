@@ -53,10 +53,10 @@ Sobre mi:👩
    <img decoding="async" src= "https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git"/>
  </a>
    </a>
-   <img decoding="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github"/>
+   <img decoding="async" src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github"/>
    </a>
    </a>
-   <img decoding="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma"/>
+   <img decoding="async" src=="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma"/>
     </a>
 </div>
 
