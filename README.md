@@ -58,6 +58,13 @@ Sobre mi:🙋🏻‍♀️
    </a>
    <img decoding="async" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
     </a>
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Appium](https://img.shields.io/badge/-Appium-5B275B?style=flat-square&logo=appium)
+![Gherkin](https://img.shields.io/badge/-Gherkin-23D96C?style=flat-square&logo=common-workflow-language)
+![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=cucumber)
+![Serenity](https://img.shields.io/badge/-Serenity-369?style=flat-square&logo=serenity)
+
 </div>
 
 ### 📊Mis estadisticas :
